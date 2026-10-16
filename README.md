@@ -43,3 +43,12 @@ The complete project report, including the research methodology, exploratory dat
 
 **Report:** `Quiz1_Report_Team_DL_Dynamics.pdf`
 
+## 👥 Team Members
+
+**Team Name:** DL Dynamics
+
+- **Sayone Dey** — Student ID: 262-25-005
+- **Md. Saimim Islam Khan Hamim** — Student ID: 262-25-032
+
+**Course:** CSE638 — Deep Learning  
+**Institution:** Daffodil International University (DIU)  
